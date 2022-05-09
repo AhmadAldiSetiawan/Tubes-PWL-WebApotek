@@ -70,10 +70,10 @@
 
                 <div class="row justify-content-center pt-2">
                     <div class="col-2">
-                        <label for="harga_jual" class="col-form-label">Harga Jual (Rp)</label>
+                        <label for="h_jual" class="col-form-label">Harga Jual (Rp)</label>
                     </div>
                     <div class="col-3">
-                        <input type="text" id="harga_jual" name="harga_jual" class="form-control" required
+                        <input type="text" id="h_jual" name="h_jual" class="form-control" required
                             data-validate-minmax="10,1000000">
                     </div>
                 </div>
